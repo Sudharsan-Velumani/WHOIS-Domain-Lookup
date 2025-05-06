@@ -22,7 +22,7 @@ A full-stack application that provides domain and contact information using the 
 ### Backend Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sudharsan-Velumani/WHOIS-Domain-Looup.git
+git clone https://github.com/Sudharsan-Velumani/WHOIS-Domain-Lookup.git
 cd whois-lookup-app/backend
 ```
 
